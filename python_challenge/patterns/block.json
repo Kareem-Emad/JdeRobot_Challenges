@@ -1,0 +1,8 @@
+{
+    "pattern": [
+        {"row":20,"column":20},
+        {"row":21,"column":20},
+        {"row":20,"column":21},
+        {"row":21,"column":21}
+    ]
+}
